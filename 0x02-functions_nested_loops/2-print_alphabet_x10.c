@@ -17,6 +17,6 @@ void print_alphabet_x10(void)
 			_putchar (alpha);
 		}
 		co++;
-		_putchar('\n');
+		_putchar('\n')
 	}
 }
